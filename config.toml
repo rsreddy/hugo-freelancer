@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
         name = ""
-        subtitle = "21<sup>st</sup> Century Skills"
+        subtitle = "21st Century Skills"
 
 
     [params.portfolio]
@@ -60,8 +60,8 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
-        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+        left = "Lorem Ipsum Description"
+        right = "Lorem Ipsum Descritpion 2"
 
         [params.about.button]
             text = "Download theme"
