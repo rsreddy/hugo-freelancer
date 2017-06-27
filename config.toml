@@ -3,6 +3,7 @@ baseurl = "https://bracketscodeclub.com/"
 languageCode = "en-us"
 title = "Brackets"
 theme = "hugo-freelancer-theme"
+enableEmoji=true
 
 
 [params]
@@ -48,7 +49,7 @@ theme = "hugo-freelancer-theme"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "Portfolio"
+        title = "Learn"
 
         [params.portfolio.modal]
             client = "Client"
@@ -60,8 +61,8 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "Lorem Ipsum Description"
-        right = "Lorem Ipsum Descritpion 2"
+        left = "I started teaching my PreK son and his cousins in January 2017 after attending a [Code.org](//code.org) workshop in Chicago.  I am a Coder by profession, but as soon as I saw what they can do and how a bunch of 4 year olds were so excited to learn - I fell in love with teaching!"
+        right = "I wanted to do more. I signed up to teach a 20 week program through [Girls Who Code](//dgpl-gwc.org) at [Downers Grove Public Library](//downersgrovelibrary.org) to 6th-12th graders.  I was never so sure to start teaching of all ages from PreK to High Schoolers.  <br><br> I have so much fun teaching and now realize I am learning from them!"
 
         [params.about.button]
             text = "Download theme"
@@ -94,12 +95,11 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
-
+        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io). <br>  Site Powered by Freelancer template, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
         [params.footer.location]
             title = "Location"
             # Postal address (add as many lines as necessary)
-            address = ["3481 Melrose Place", "Beverly Hills, CA 90210"]
+            address = ["Stay Tuned for our Pop Up Locations"]
 
         [params.footer.social]
             title = "Around the web"
@@ -108,14 +108,14 @@ theme = "hugo-freelancer-theme"
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-github"
-                link = "//github.com/spf13/hugo"
+                link = "//github.com/rsreddy"
 
             [[params.footer.social.networks]]
-                icon = "fa-stack-overflow"
-                link=  "//stackoverflow.com/questions/tagged/hugo"
+                icon = "fa-linkedin"
+                link=  "//linkedin.com/in/radhikabshah"
 
 
-        [params.footer.credits]
-            title = "About Freelancer"
-            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
+            [params.footer.credits]
+            title = "Hour of Code"
+            text = "Coming soon!"
 
