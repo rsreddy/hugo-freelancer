@@ -3,8 +3,6 @@ baseurl = "https://bracketscodeclub.com/"
 languageCode = "en-us"
 title = "Brackets"
 theme = "hugo-freelancer-theme"
-enableEmoji=true
-
 
 [params]
 
@@ -61,8 +59,8 @@ enableEmoji=true
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "I started teaching my PreK son and his cousins in January 2017 after attending a [Code.org](//code.org) workshop in Chicago.  I am a Coder by profession, but as soon as I saw what they can do and how a bunch of 4 year olds were so excited to learn - I fell in love with teaching!"
-        right = "I wanted to do more. I signed up to teach a 20 week program through [Girls Who Code](//dgpl-gwc.org) at [Downers Grove Public Library](//downersgrovelibrary.org) to 6th-12th graders.  I was never so sure to start teaching of all ages from PreK to High Schoolers.  <br><br> I have so much fun teaching and now realize I am learning from them!"
+        left = "I started teaching my son and other family members in January 2017 after attending a [Code.org](//code.org) teacher's workshop in Chicago.  I am a Software Developer by profession, but as soon as I saw what they could do and how excited a group of 4 year olds were to learn, I fell in love with teaching!"
+        right = "I wanted to do more. I signed up to teach a 20 week program through [Girls Who Code](//dgpl-gwc.org) at the [Downers Grove Public Library](//downersgrovelibrary.org) to 6th-12th graders.  After that experience I realized that I had a passion for both teaching children, and learning from them!"
 
         [params.about.button]
             text = "Download theme"
