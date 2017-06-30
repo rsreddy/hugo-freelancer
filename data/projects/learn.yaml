@@ -1,15 +1,12 @@
 modalID: 5
-title: Learn By Doing
-date: 2017-06-26
 img: learn.png
-client: Start Bootstrap
-clientLink: "#"
-category: Web Development
 description: Free Resources!
-resources:
-  - Code.org
-  - Codesters
-  - Scratch
-  - Py
-  - Khan Academy
-  - Swift Playgrounds
+more:
+  - Beginner, Intermediate, Advanced [Code.org](//code.org) 
+  - Beginner, Intermediate [Codesters](//codesters.com/) 
+  - Beginner, Intermediate [Scratch](//scratch.mit.edu/) 
+  - Beginner [FlexBox Froggy](http://flexboxfroggy.com/)
+  - Beginner, Intermediate, Advanced [Py](//downloadpy.com/) Mobile Only
+  - Beginner, Intermediate [Swift Playgrounds](//apple.com/swift/playgrounds/) iPad Only
+  - Advanced [Khan Academy](//khanacademy.org/computing/computer-science) 
+

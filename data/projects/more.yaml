@@ -1,8 +1,6 @@
 modalID: 6
-title: More
-date: 2017-06-26
 img: more.png
-client: Start Bootstrap
-clientLink: "#"
-category: Web Development
-description: If you have a few minutes, please fill out a survey [here]()
+description: More Information
+more:
+  - Fill out [Survey](https://www.surveymonkey.com/r/3FYXSXM)
+  - Find me on [LinkedIn](//linkedin.com/in/radhikabshah)

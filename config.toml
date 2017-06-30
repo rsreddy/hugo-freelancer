@@ -49,24 +49,11 @@ theme = "hugo-freelancer-theme"
         # For more informtion take a look at the README.
         title = "Learn"
 
-        [params.portfolio.modal]
-            client = "Client"
-            date = "Date"
-            category = "Category"
-            buttontext = "Close"
-
-
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
         left = "I started teaching my son and other family members in January 2017 after attending a [Code.org](//code.org) teacher's workshop in Chicago.  I am a Software Developer by profession, but as soon as I saw what they could do and how excited a group of 4 year olds were to learn, I fell in love with teaching!"
         right = "I wanted to do more. I signed up to teach a 20 week program through [Girls Who Code](//dgpl-gwc.org) at the [Downers Grove Public Library](//downersgrovelibrary.org) to 6th-12th graders.  After that experience I realized that I had a passion for both teaching children, and learning from them!"
-
-        [params.about.button]
-            text = "Download theme"
-            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
-            icon = "download"
-
 
     [params.contact]
         title = "Contact"

@@ -1,8 +1,12 @@
 modalID: 4
-title: Outcomes
-date: 2017-06-26
 img: outcomes.png
-client: Start Bootstrap
-clientLink: "#"
-category: Web Development
-description: Hands on coding, real world experience, unlocking curiousity, public speaking, research, presenting, logical thinking. The list can go on!
+description: Facts
+more:
+  - Hands on coding
+  - Real world experience
+  - Unlocking curiousity
+  - Public speaking
+  - Research
+  - Presenting
+  - Logical thinking
+  - And many more!

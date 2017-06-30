@@ -1,12 +1,8 @@
 modalID: 2
-title: Collaborate
-date: 2017-06-26
 img: collaborate.png
-client: Start Bootstrap
-clientLink: "#"
-category: Web Development
-description: Small Projects Benefits
-benefits:
-  - Learn better with friends. Check out [Pair Programming from Code.org](https://www.youtube.com/watch?v=vgkahOzFH2Q)
+description: Small Project Based Learning
+more:
+  - Learn better with friends! Check out [Pair Programming from Code.org](https://www.youtube.com/watch?v=vgkahOzFH2Q)
   - Demonstrate the teams' efforts
   - Self Management and Awareness
+  - If you work together, you will find a way to solve problems!
