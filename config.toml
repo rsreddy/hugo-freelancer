@@ -83,7 +83,7 @@ theme = "hugo-freelancer-theme"
 
 
     [params.footer]
-        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io). <br>  Site Powered by Freelancer template, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com), and modified by Radhika S. Reddy."
+        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io). <br>  Site Powered by Freelancer template, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com), and modified by Brackets Code Club."
         [params.footer.location]
             title = "Location"
             # Postal address (add as many lines as necessary)
