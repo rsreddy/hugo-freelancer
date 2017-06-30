@@ -1,0 +1,21 @@
+<head>
+    {{ partial "head.html" . }}
+</head>
+{{ "<!-- Portfolio Modals -->" | safeHTML }}
+{{ range .Site.Data.projects }}
+<div class="portfolio-modal modal fade" id="portfolioModal{{ .modalID }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="modal-body">
+            <h3>{{ .description | markdownify }}</h3>
+            <hr class="star-light">
+            <ul class="list-inline">
+                {{ range .more }}
+                    <p>{{ . | markdownify }}</p>
+                {{ end }}
+            </ul>
+            <br>
+            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.portfolio.modal.buttontext }}{{.}}{{ end }}</button>
+        </div>
+    </div>
+</div>
+{{ end }}
