@@ -1,3 +1,9 @@
 modalID: 1
 img: curriculum.png
-description: The currciulum can vary based on interests and education level.
+description: Curriculum
+more: 
+  - The following is an estimate and heavily depends on interests and education level
+  - <span style="color:#bfc121">PreK - Grade 3</span><br> Internet Safety, Drag and Drop Based applications and Activity play that teaches Computer Science fundametals
+  - <span style="color:#bfc121">Grade 3 - Grade 6</span><br> Introduces JavaScript and Python to program Arduinos
+  - <span style="color:#bfc121">Grade 6 - Grade 8</span><br> More JavaScript and Python along with introducing Data Structures and Functions
+  - <span style="color:#bfc121">Grade 8 - 12</span><br> Even more JavaScript and Python along with Data Structions or anything they want to continue to do! 
