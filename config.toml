@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://bracketscodeclub.com/"
+baseurl = "http://www.bracketscodeclub.com/"
 languageCode = "en-us"
 title = "Brackets"
 theme = "hugo-freelancer-theme"
@@ -48,6 +48,9 @@ theme = "hugo-freelancer-theme"
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
         title = "Learn"
+
+        [params.portfolio.modal]
+            buttontext = "Close"
 
     [params.about]
         title = "About"
