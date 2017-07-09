@@ -31,6 +31,30 @@
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
+                    <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                            <label>{{ with .Site.Params.contact.form.age.text }}{{.}}{{ end }}</label>
+                            <input type="text" class="form-control" placeholder="{{ with .Site.Params.contact.form.age.text }}{{.}}{{ end }}" id="age" required data-validation-required-message="{{ with .Site.Params.contact.form.age.error }}{{.}}{{ end }}">
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div class="row control-group">
+                        <div class="form-group col-xs-12 floating-label-form-group controls">
+                            <label>{{ with .Site.Params.contact.form.interests.text }}{{ . | markdownify }}{{ end }}</label>
+                            <textarea rows="5" name="interests" class="form-control" placeholder="{{ with .Site.Params.contact.form.interests.text }}{{.}}{{ end }}" id="interests" required data-validation-required-message="{{ with .Site.Params.contact.form.interests.error }}{{.}}{{ end }}"></textarea>
+                            <p class="help-block text-danger"></p>
+                        </div>
+                    </div>
+                    <div class="row control-group">
+                        <legend>{{ with .Site.Params.contact.form.prerequisites.text }}{{.}}{{ end }}</legend>
+                            {{ range .Site.Params.contact.form.prerequisites.options}}
+                            <div>
+                                <input type="radio" id="{{ .value }}" name="prerequisites" value="{{ .value }}">
+                                <label for="{{ .value }}">{{ .text }}</label>
+                            </div>
+                            {{ end }}
+                        </fieldset>
+                    </div>
                     <div>
                         <input type="hidden"  name="_subject" value="New submission!">
                         <input type="text" name="_gotcha" style="display:none" />
@@ -38,7 +62,7 @@
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>{{ with .Site.Params.contact.form.message.text }}{{.}}{{ end }}</label>
-                            <textarea rows="5" name="message" class="form-control" placeholder="{{ with .Site.Params.contact.form.message.text }}{{.}}{{ end }}" id="message" required data-validation-required-message="{{ with .Site.Params.contact.form.message.error }}{{.}}{{ end }}"></textarea>
+                            <textarea rows="5" name="message" class="form-control" placeholder="{{ with .Site.Params.contact.form.message.text }}{{.}}{{ end }}" id="message"></textarea>
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
