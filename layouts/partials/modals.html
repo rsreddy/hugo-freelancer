@@ -9,8 +9,17 @@
             <h3>{{ .description | markdownify }}</h3>
             <hr class="star-light">
             <ul class="list-inline">
-                {{ range .more }}
+                {{ if .more }}
+                    {{ range .more }}
                     <p>{{ . | markdownify }}</p>
+                    {{ end }}
+                {{ end }}
+                {{ if .timeline }}
+                    {{range .timeline}}
+                        {{ .date }} 
+                        {{ .title }}
+                        {{ .description }}
+                    {{ end }}
                 {{ end }}
             </ul>
             <br>

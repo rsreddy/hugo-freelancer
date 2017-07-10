@@ -45,16 +45,6 @@
                             <p class="help-block text-danger"></p>
                         </div>
                     </div>
-                    <div class="row control-group">
-                        <legend>{{ with .Site.Params.contact.form.prerequisites.text }}{{.}}{{ end }}</legend>
-                            {{ range .Site.Params.contact.form.prerequisites.options}}
-                            <div>
-                                <input type="radio" id="{{ .value }}" name="prerequisites" value="{{ .value }}">
-                                <label for="{{ .value }}">{{ .text }}</label>
-                            </div>
-                            {{ end }}
-                        </fieldset>
-                    </div>
                     <div>
                         <input type="hidden"  name="_subject" value="New submission!">
                         <input type="text" name="_gotcha" style="display:none" />

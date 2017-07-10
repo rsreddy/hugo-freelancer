@@ -59,7 +59,7 @@ theme = "hugo-freelancer-theme"
         right = "I wanted to do more. I signed up to teach a 20 week program through [Girls Who Code](//dgpl-gwc.org) at the [Downers Grove Public Library](//downersgrovelibrary.org) to 6th-12th graders.  After that experience I realized that I had a passion for both teaching children, and learning from them!"
 
     [params.contact]
-        title = "Register"
+        title = "Inquire"
 
         # 'error' defines error messages for invalid inputs
         [params.contact.form.name]
@@ -81,19 +81,6 @@ theme = "hugo-freelancer-theme"
         [params.contact.form.interests]
             text = "Interests \n (i.e. Baking Soda and Vinegar Magic, Solving Puzzles, Legos, Snap Circuits, Music, Math, Art, Free Play, Disney Movies)"
             error = "Please enter a few interests."
-
-        [params.contact.form.prerequisites]
-            text = "Do you own a tablet of at least 9.5\" or a laptop with Chrome or Safari installed? (i.e. iPad Air)"
-
-            [[params.contact.form.prerequisites.options]]
-                value = "yes"
-                text = "Yes" 
-
-            [[params.contact.form.prerequisites.options]]
-                value = "no"
-                text = "No"   
-
-            error = "Please select one."
 
         [params.contact.form.message]
             text = "Message"

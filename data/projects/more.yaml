@@ -1,6 +1,43 @@
 modalID: 6
 img: more.png
 description: More Information
-more:
-  - Fill out [Survey](https://www.surveymonkey.com/r/3FYXSXM)
-  - Find me on [LinkedIn](//linkedin.com/in/radhikabshah)
+timeline:
+- date: 2003-06-01
+- title: Graduated from Benedictine University with Major in Computer Science and Minor in Mathematics
+- description: I 
+- image: put image here
+- date: 2006-06-01
+- title: Graduated from DePaul University with Masters in Computer Science
+- description: Add Short descritpion
+- date: 2006-04-01
+- title: Junior Application Developer at Oprah.com
+- description: Add Short Description
+- date: 2010-05-01
+- title: Software Engineer at Northwester University
+- description: Add Short Descritpion
+- date: 2010-08-28
+- title: Got Married!!!
+- description: Add
+- date: 2012-08-08
+- title: Birth of my awesome son!
+- description: add 
+- date: 2014-03-01
+- title: Sr. Software Engineer at Exelon
+- description: add
+- date: 2016-12-01
+- title: Attended Code.org Teacher Workshop and started teaching CS fundamentals to my son and family memebers
+- description: add
+- date: 2017-01-11
+- title: Teaching Girls Who Code through Downers Grove Public Library
+- description: add
+- date: 2017-05-31
+- title: Wrapped up Girls Who Code and accepted a position at University of Illinois at Chicago
+- description: add
+- date: 2017-07-17
+- title: Assistant Director of Development at University of Illinois at Chicago
+- description: add
+
+
+
+
+
