@@ -1,43 +1,62 @@
 modalID: 6
 img: more.png
 description: More Information
+more:
+- Radhi's Teaching and Professional Experience with a few life events :)
 timeline:
-- date: 2003-06-01
-- title: Graduated from Benedictine University with Major in Computer Science and Minor in Mathematics
-- description: I 
-- image: put image here
-- date: 2006-06-01
-- title: Graduated from DePaul University with Masters in Computer Science
-- description: Add Short descritpion
-- date: 2006-04-01
-- title: Junior Application Developer at Oprah.com
-- description: Add Short Description
-- date: 2010-05-01
-- title: Software Engineer at Northwester University
-- description: Add Short Descritpion
-- date: 2010-08-28
-- title: Got Married!!!
-- description: Add
-- date: 2012-08-08
-- title: Birth of my awesome son!
-- description: add 
-- date: 2014-03-01
-- title: Sr. Software Engineer at Exelon
-- description: add
-- date: 2016-12-01
-- title: Attended Code.org Teacher Workshop and started teaching CS fundamentals to my son and family memebers
-- description: add
-- date: 2017-01-11
-- title: Teaching Girls Who Code through Downers Grove Public Library
-- description: add
-- date: 2017-05-31
-- title: Wrapped up Girls Who Code and accepted a position at University of Illinois at Chicago
-- description: add
-- date: 2017-07-17
+- date: JULY 2017
 - title: Assistant Director of Development at University of Illinois at Chicago
-- description: add
-
-
-
-
-
+- description: I am super excited for this opportunity! I will be applying what I have learned throughout my career to help bring up the Enterprise System Department to a modern toolset. I am also ready for the biggest challenge in my career yet - managing people!
+- image: july2017.png
+- date: MAY 2017
+- title: Wrapped up Girls Who Code and accepted a position at University of Illinois at Chicago
+- description: Wow!  What an experience!  The girls taught me so much and I am so thankful for that!  They showcased their hard work to their family by explaining what their project meant to them and what tech they used! Go GWC!
+- image: july2017.png
+- date: JANUARY 2017
+- title: Teaching Girls Who Code through Downers Grove Public Library
+- description: Super excited to get my teach on!  I introduced the girls to all the real-world tools we used in the industry. Cloud9, Github, Flask, Python, Creative Commons, Slack!  
+- image: july2017.png
+- date: DECEMBER 2016
+- title: Attended Code.org Teacher Workshop and started teaching CS fundamentals to my son and family memebers
+- description: This was a fun experience to be surronded by Elementary School Teachers.  I was the only Software Engineer Mom but was able to mock teach a classroom Computer Science Fundamentals!!  I even received a certificate to teach from Code.org!
+- image: july2017.png
+- date: MARCH 2014
+- title: Sr. Software Developer at Exelon in Coprorate Strategy, Innovation, and Sustainability Team
+- description: I was hired on a Mobile Developer focusing on Hybrid Development in the Mobile Center of Excellence Team at Exelon.  After a few B2E and B2C apps in Ionic, Ember & Angular, I then joined CSIS team.  That was super fun to develop solutions for quick prototypes and play with expensive Virtual/Augmented Reality and humanoids! I worked with some of the brightest coders in the industry!
+- image: july2017.png
+- date: AUGUST 2012
+- title: Along came Roshan!
+- description: Life Event - Birth of my awesome son who amazes me EVERY single second of my life!!! 
+- image: july2017.png
+- date: AUGUST 2010
+- title: Married a Software Developer, Deven!
+- description: Life Event - Married my love.  Thanks for making me laugh everyday!
+- image: july2017.png
+- date: MAY 2010
+- title: Software Developer at Northwestern University, Evanston Campus
+- description: I started out in the ITMS analyzing student financials for the NWU Loan Department's web application. Then, I went to the library to work on both web and mobile applications in JavaScript. 
+- image: july2017.png
+- date: JUNE 2006
+- title: Graduated from DePaul University with Masters in Computer Science
+- description: After the tech bubble bursted right when I graduated from Benedictine University, it was so difficult to find a job.  So I went back to school to earn my masters in Computer Science focusing on Distributed Systems, Machine Learning, and even Teaching Computer Science!!!  Since I was a grader/TA for NLP class and a web designer for the CS department, my tuition was covered!
+- image: july2017.png
+- date: APRIL 2006
+- title: Junior Application Developer at Oprah.com
+- description: By far the coolest job ever!! I worked with the best creators in the industry.  This was my first real-world expereince in a high intense environment.  I did not feel like I was pulling 60hours/week because of the team and the ultimate goal.  Oprah was so thankful, she took every employee and their families on a 2week Medterian cruise!  Hard work does pay off; I still use what I learned from here in my work now!
+- image: july2017.png
+- date: MAY 2003
+- title: Graduated from Benedictine University with Major in Computer Science and Minor in Mathematics
+- description: After I visited an older cousin in Silicon Valley who studied Computer Engineering; I never was so sure I wanted to prusue this career.  But it was a real struggle. I even failed my CS201 class.  I was sad but I never gave up.  I coded and studied with the only other female in class and a good friend.  I worked harder on understanding the concepts and reading documentation. 
+- image: july2017.png
+- date: MAY 1998
+- title: Joined an HTML Club at Elk Grove High School
+- description: After school club where the students got together and just made basic HTML pages.
+- image: july2017.png
+- date: MAY 1997
+- title: X-Files and AOL
+- description: Enter the X-Files and AOL phenonmon.  I am so obssesed wtih X-Files, I dialed up to read the theories behind each episode in forums.  So much fun!
+- image: july2017.png
+- date: JANUARY 1990
+- title: Spiderman Movie
+- description: I added this in my timeline because I was addicted to a Create Your Own Spiderman Scence Computer Game my dad bought me.  I clicked and dragged characters, settings, backdrops, audio, and etc.  So much fun!
+- image: july2017.png
