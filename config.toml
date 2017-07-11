@@ -56,7 +56,7 @@ theme = "hugo-freelancer-theme"
         title = "About"
         # The about text is splitted into a left and right column
         left = "I started teaching my son and other family members in January 2017 after attending a [Code.org](//code.org) teacher's workshop in Chicago.  I am a Software Developer by profession, but as soon as I saw what they could do and how excited a group of 4 year olds were to learn, I fell in love with teaching!"
-        right = "I wanted to do more. I signed up to teach a 20 week program through [Girls Who Code](//dgpl-gwc.org) at the [Downers Grove Public Library](//downersgrovelibrary.org) to 6th-12th graders.  After that experience I realized that I had a passion for both teaching children, and learning from them!"
+        right = "I wanted to do more. I signed up to teach a 20 week program through [Girls Who Code](//dgpl-gwc.org) at the [Downers Grove Public Library](//downersgrovelibrary.org) to 6th-12th graders.  After that experience, I realized that I had a passion for both teaching children, and learning from them!"
 
     [params.contact]
         title = "Inquire"
@@ -87,7 +87,7 @@ theme = "hugo-freelancer-theme"
             error = "Please enter a message."
 
         [params.contact.form.button]
-            text = "Send For Customized Information"
+            text = "Get Customized Information"
 
 
     [params.footer]
