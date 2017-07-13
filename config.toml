@@ -55,8 +55,8 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "I started teaching my son and other family members in January 2017 after attending a [Code.org](//code.org) teacher's workshop in Chicago.  I am a Software Developer by profession, but as soon as I saw what they could do and how excited a group of 4 year olds were to learn, I fell in love with teaching!"
-        right = "I wanted to do more. I signed up to teach a 20 week program through [Girls Who Code](//dgpl-gwc.org) at the [Downers Grove Public Library](//downersgrovelibrary.org) to 6th-12th graders.  After that experience, I realized that I had a passion for both teaching children, and learning from them!"
+        left = Two moms trying to teach our kids 21st Century Skills at an early age.  One is a programmer and the other is full of awesome ideas! Learn how computers work and to code apps!"
+        right = "The future of the world will be in our classroom! We are dedicated to teach Team-Based Learning.  This includes collaboration, leadership skills, constructive feedback loop and more!"
 
     [params.contact]
         title = "Inquire"
