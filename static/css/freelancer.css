@@ -409,8 +409,8 @@ footer .footer-below {
 }
 
 .modal-open .modal {
-    width: 75%;
-    height: 75%;
+    width: 95%;
+    height: 95%;
     margin: auto;
     border-radius: 15px;
 }
@@ -447,9 +447,8 @@ footer .footer-below {
     right: 25px;
     width: 75px;
     height: 75px;
-    background-color: #d91818;
+    background-color: transparent;
     cursor: pointer;
-    border-radius: 20px;
 }
 
 .portfolio-modal .close-modal:hover {
@@ -461,7 +460,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #2c3e50;
+    background-color: #fff;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -471,7 +470,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #2c3e50;
+    background-color: #fff;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
@@ -552,7 +551,7 @@ footer .footer-below {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #fed136;
+    background-color: #1037b5;
 }
 
 .timeline>li .timeline-image h4 {
