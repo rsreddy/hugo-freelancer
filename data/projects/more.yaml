@@ -2,7 +2,7 @@ modalID: 6
 img: more.png
 description: More Information
 more:
-- Radhi's Teaching and Professional Experience with a few life events :)
+- Teaching and Professional Experience
 timeline:
 - event: <span style="color:#bfc121">JULY 2017</span><br>Assistant Director of Development at UIC <br><span style="color:#777" font-size="10px">I am super excited for this opportunity! I will be applying what I have learned throughout my career to help bring up the Enterprise System Department to a modern toolset. I am also ready for the biggest challenge in my career yet - managing people!</span>
 - event: <span style="color:#bfc121">JANUARY 2017 - MAY 2017</span><br>Teaching Girls Who Code at [Downers Grove Public Library](//downersgrovelibrary.org)<br><span style="color:#777" font-size="10px">Wow! What an experience!  The girls taught me so much and I am so thankful for that!  They showcased their hard work to their family by explaining what their projects meant to them.  They worked in small teams, learned CS Fundamental Skills, and applied what they learned in 20 weeks!  They used all the real-world tools we use in the industry. From FlexBox Froggy, Cloud9, Github, Flask, Python to Slack! [Check out their projects!](//dgpl-gwc.org)</span>
